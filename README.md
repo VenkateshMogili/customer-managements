@@ -1,3 +1,16 @@
+## Run Server
+
+	php artisan serve
+
+## Generate seeds
+	php artisan db:seed
+
+## Migration
+	php artisan make:migrate
+
+## Controller Creation
+	php artisan make:controller
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
